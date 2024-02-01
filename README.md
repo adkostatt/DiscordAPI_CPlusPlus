@@ -1,2 +1,2 @@
-# DiscordAPI_C-
+# DiscordAPI_CPlusPlus
 Удобное взаимодействие с дискорд апи с помощью плюсов
